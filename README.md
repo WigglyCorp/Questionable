@@ -4,7 +4,7 @@
 
 *Automate your questing experience with intelligent pathfinding and seamless quest completion*
 
-[![GitHub Release](https://img.shields.io/github/v/release/WigglyMuffin/Questionable?style=for-the-badge&logo=github&color=brightgreen)](https://github.com/WigglyMuffin/Questionable/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/WigglyCorp/Questionable?style=for-the-badge&logo=github&color=brightgreen)](https://github.com/WigglyCorp/Questionable/releases)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pngyvpYVt2)
 
 ---
@@ -109,7 +109,7 @@ Access configuration through the main plugin window or `/questionable config`:
 ## Support & Community
 
 - **Discord**: Join our community for support, updates, and discussions: [https://discord.gg/pngyvpYVt2](https://discord.gg/pngyvpYVt2)
-- **Bug Reports**: Use [GitHub Issues](https://github.com/WigglyMuffin/Questionable/issues) for bug reports
+- **Bug Reports**: Use [GitHub Issues](https://github.com/WigglyCorp/Questionable/issues) for bug reports
 - **Feature Requests**: Submit suggestions via GitHub Issues
 
 ## Quest Coverage
